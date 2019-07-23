@@ -1,0 +1,2 @@
+# lavamax
+GitHub Pages
